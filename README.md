@@ -1,7 +1,7 @@
 Docker Fundamentals WebApp
 ==========================
 
-The Docker Fundamentals repository contains the example Vinod
+The Docker Fundamentals repository contains the example Vinod2
 
 ## License
 
